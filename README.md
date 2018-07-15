@@ -6,4 +6,4 @@ the data and description of the data can be obtained here:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 the documentation of all from the original dataset can be obtained here:
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+https://ww2.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt
